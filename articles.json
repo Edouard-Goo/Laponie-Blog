@@ -1,0 +1,64 @@
+[
+{
+    "title":"Les spécialités culinaires à découvrir en Laponie",
+    "description":"<p>La Laponie est une région septentrionale et la culture de la terre dans des conditions météorologiques extrêmes est assez complexe. Le froid polaire en hiver et la courte période de l’été ne permettent pas une production de légumes variée et conséquente. Ils sont mêmes plutôt rares. On trouve essentiellement des pommes de terres, des navets et rutabagas, des betteraves et des carottes que l’on décline en purée, en gratin, en soupe ou que l’on cuit simplement cuits  ! Les pommes de terre sont les aliments de base, les plus consommés en Laponie d’ailleurs.<\/p>\r\n<p>La viande de renne est un incontournable en Laponie. Elle est le plus souvent cuisinée en ragout mais aussi déclinée en charcuteries. Cependant, c’est une viande chère et l’on n’en mange pas forcément tous les jours. Si vous êtes de passage à Levi, goûtez à une pizza aux rennes au restaurant Renna, elles sont succulentes !<\/p>\r\n\r\n<p>Côté charcuteries, on retrouve les fameuses saucisses à griller, les makkara, un snack incontournable à manger hiver comme été!<\/p>\r\n",
+    "date":"2006-05-04",
+    "category":"gastronomie",
+    "comments":[
+        {
+            "pseudo":"Julie",
+            "comment":"Les patates, j'ai adoré !!",
+            "date":"2021-11-15"
+        },
+        {
+            "pseudo":"Nico",
+            "comment":"Beaucoup de poisson dans leur alimentation.",
+            "date":"2021-11-18"
+        }
+    ],
+    "images":[
+        {
+            "src":"img/cuisine-lapone-1890x1258.jpg",
+            "alt":"La cuisine en Laponie"
+        }
+    ]
+},
+{
+    "title":"Le VILLAGE DE PÈRE NOËL À ROVANIEMI",
+    "description":"<p>Vous pouvez rencontrer le Père Noël et traverser le magique Cercle Polaire tous les jours au Village du Père Noël à Rovaniemi en Laponie, en Finlande.<\/p>\r\n\r\n<p>Le Père Noël passe son temps au Village du Père Noël (Santa Claus Village) en Laponie tous les jours de l’année pour prendre soin de sa mission dans la vie; améliorer le bien-être et la gentillesse des enfants et des adultes, ainsi que répandre le message de bonne volonté de l’esprit de Noël dans le monde entier.<\/p>\r\n",
+    "date":"2007-03-16",
+    "category":"activité",
+    "images":[
+        {
+            "src":"img/pere-noel.jpg",
+            "alt":"Le père Noël"
+        }
+    ]
+},
+{
+    "title":"Que faire en Laponie pendant une semaine ?",
+    "description":"<p>\r\nNous rêvions depuis longtemps d’un voyage en Laponie. Maintenant que c’est fait, aucune déception : cette destination nous a émerveillés. Il n’y a pas meilleur endroit pour profiter de l’hiver que la Laponie. Nous allons donc voir que faire en Laponie avec un itinéraire jour par jour. \r\n<\/p>\r\n\r\n<p><strong>Randonnée en motoneige<\/strong>\r\nLa sortie en motoneige est une activité incontournable de la Laponie. Pendant quelques heures, nous avons pu conduire à travers les sapins enneigés ! <br>\r\nÀ mi-chemin, un stop dans un kota (petit abri au coeur de la nature, très populaire en Finlande) est organisé avec du jus chaud de myrtilles et des biscuits. Le feu de bois est aussi là pour se réchauffer bien sûr !<\/p>\r\n\r\n",
+    "date":"1982-08-03",
+    "category":"activité",
+    "images":[
+        {
+            "src":"img/fond.jpg",
+            "alt":"La laponie"
+        }
+    ]
+},
+{
+    "title":"Les aurores boréales",
+    "description":"<p>Spectaculaires et magnifiques, les aurores boréales ne sont pas si simples à apercevoir. En effet, il y a beaucoup de facteurs à prendre en compte. Nous allons vous aider à optimiser vos chances de voir des aurores boréales en Laponie grâce à des astuces et des outils que vous devrez avoir en votre possession.<\/p>\r\n\r\n<h2>Les aurores boréales : pourquoi ?<\/h2>\r\n\r\n<p>Elles résultent d’une perturbation du champ magnétique terrestre. On ne va pas rentrer dans les détails physiques, mais la terre est enveloppée par la magnétosphère qui sert de protection. Quand le pôle est à l’opposé du soleil (la nuit donc), des particules de cette magnétosphère sont expulsées à haute vitesse en direction de la terre. Au contact de l’atmosphère, ces particules émettent alors une lumière verte, rouge ou violette ?.<\/p>\r\n\r\n<p>Les aurores boréales dépendent donc majoritairement de l’activité du soleil. Par conséquent, il est difficile de les prévoir plusieurs heures à l’avance.<\/p>",
+    "date":"1997-11-27",
+    "category":"culture",
+    "images":[
+        {
+            "src":"img/aurores-boreales-1024x683.jpg",
+            "alt":"Les aurores boréales"
+        }
+    ]
+}
+]
+
+
