@@ -191,13 +191,7 @@ export const AddPostSubmit = async (req, res) => {
 
 }
 
-/**
- * 
- * @param {*} req 
- * @param {*} res 
- * @returns 
- * Fonction qui permet de supprimer un article
- */
+
 export const DeletePost = async (req, res) => {
 
     try {
