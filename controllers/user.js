@@ -143,15 +143,7 @@ export const RegisterPage = (req, res) => {
 
 export const RegisterSubmit = async (req, res) => {
 
-// let newUser = {
-//     login: req.body.login,
-//     email: req.body.email,
-//     password: req.body.password
-// }
 
-// await User.save(newUser)
-
-// ----------------- 
 
 try{
     // Je vérifie que l'email n'existe pas 
